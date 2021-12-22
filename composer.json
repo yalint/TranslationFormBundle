@@ -25,5 +25,5 @@
     "autoload": {
         "psr-0": { "A2lix\\TranslationFormBundle": "" }
     },
-    "target-dir": "A2lix/TranslationFormBundle",
+    "target-dir": "A2lix/TranslationFormBundle"
 }
