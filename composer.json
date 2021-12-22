@@ -14,9 +14,6 @@
             "name": "David ALLIX"
         }
     ],
-    "require": {
-        "symfony/symfony": "5.0.*"
-    },
     "suggest": {
         "a2lix/i18n-doctrine-bundle": "For A2lix strategy",
         "stof/doctrine-extensions-bundle": "For Gedmo strategy",
